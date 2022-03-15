@@ -1,6 +1,7 @@
 #defined functions
 #inbuilt functions
 
+# defined function
 <?php
 
     #call
