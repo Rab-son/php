@@ -22,3 +22,4 @@
 > str_replace
 > explode
 > array_shift
+> count
