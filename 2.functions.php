@@ -20,3 +20,4 @@
 # inbuilt functions
 > subtr
 > str_replace
+> explode
