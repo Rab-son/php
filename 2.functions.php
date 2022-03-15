@@ -23,3 +23,4 @@
 > explode
 > array_shift
 > count
+> array_slice
