@@ -26,3 +26,4 @@
 > array_slice
 > join
 > array_search
+> Array_merge
