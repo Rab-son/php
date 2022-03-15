@@ -17,5 +17,6 @@
 
 ?>
 
-# inbuit functions
+# inbuilt functions
 > subtr
+>
