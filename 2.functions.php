@@ -21,3 +21,4 @@
 > subtr
 > str_replace
 > explode
+> array_shift
