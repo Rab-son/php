@@ -16,3 +16,6 @@
 
 
 ?>
+
+# inbuit functions
+> subtr
