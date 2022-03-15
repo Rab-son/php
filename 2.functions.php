@@ -25,3 +25,4 @@
 > count
 > array_slice
 > join
+> array_search
