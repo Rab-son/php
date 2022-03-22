@@ -2,3 +2,4 @@
 #signature:explode(seperator,string, [limit]) 
 
 $ussdString = "123*9*3*4";
+$explodedString = explode("*", $ $ussdString);
