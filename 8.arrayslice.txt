@@ -1,0 +1,1 @@
+#Used to fetch a part of an array by slicing through it, according to the user's choice
