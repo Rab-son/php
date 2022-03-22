@@ -1,0 +1,1 @@
+#Searches the array for a given value and returns the first corresponding key, FALSE otherwise
