@@ -3,4 +3,4 @@
 
 $a = array(3,6,3);
 $b = array(9,4,6);
-
+var_dump(array_merge($a,$b));
